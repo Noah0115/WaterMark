@@ -496,11 +496,11 @@ def random_strategy2(seed, size, block_shape):
 
 水印嵌入：运行**image_watermark.py**文件，将对**input_img/test.jpg**进行嵌入水印，嵌入水印后的图片保存在**output_img/output_test.jpg**(运行截图仅显示部分输出内容)
 
-![image-20230809192855023](http://sapic.lyh27.top/static/upload/admin/image-20230809192855023.png)
+<img src="https://immich.lyh27.top/api/assets/d74388f5-f5fe-4bbc-a108-3f7e7fd5b32a/thumbnail?size=preview&key=25V6Vu9F_RRr2dJRHv9neJzgAYlcc4v8m9nc51VCXZcwhXYMn8GwtfaJuVsBitUCJq8" alt="image-20230809192855023" />
 
 图片攻击：运行**attr_test.py**，将对**input_img/test.jpg**进行各种图片攻击，攻击后的图片结果保存在**output_img**当中。
 
-![image-20230809192718233](http://sapic.lyh27.top/static/upload/admin/image-20230809192718233.png)
+<img src="https://immich.lyh27.top/api/assets/c336ab46-7c7c-4141-b538-6457ee8d24d1/thumbnail?size=preview&key=25V6Vu9F_RRr2dJRHv9neJzgAYlcc4v8m9nc51VCXZcwhXYMn8GwtfaJuVsBitUCJq8" alt="image-20230809192718233" />
 
 ## 附录
 
