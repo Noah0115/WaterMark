@@ -5,26 +5,27 @@
 #### 项目目录
 
 ```
-├── attr_test.py				//	对图片攻击测试py文件
-├── blind_watermark				//	隐水印库文件夹
-│   ├── att.py					//	图片攻击测试
-│   ├── blind_watermark.py		        //	WaterMark类
-│   ├── bwm_core.py				//	WaterMarkCore类
-│   ├── cli_tools.py			        //	命令行运行方式及参数说明
-│   ├── pool.py					//	图片池化
-│   ├── recover.py				//	工具类
-│   ├── version.py				//	版本说明
-│   ├── __init__.py				//	初始化文件
-├── image_watermark.py			        //	图片嵌入水印测试py文件
-├── input.txt					//	输入语料
-├── input_gbk.txt				//	输入语料(GBK编码)
-├── input_img					//	待加密图片文件夹
-│   ├── new_test.jpg			        //	嵌入过程中对原图修改后的图片文件
-│   └── test.jpg				//	待加密原始图片
-├── output_img					//	嵌入水印后生成图片的文件夹
-│   └── output1.jpg				//	已嵌入水印图片
-├── requirements.txt			        //	项目依赖
-├── watermark_attr.py			        //	图片攻击类
+├── attr_test.py                   // 对图片攻击测试 py 文件
+├── blind_watermark                // 隐水印库文件夹
+│   ├── att.py                     // 图片攻击测试
+│   ├── blind_watermark.py         // WaterMark 类
+│   ├── bwm_core.py                // WaterMarkCore 类
+│   ├── cli_tools.py               // 命令行运行方式及参数说明
+│   ├── pool.py                    // 图片池化
+│   ├── recover.py                 // 工具类
+│   ├── version.py                 // 版本说明
+│   ├── __init__.py                // 初始化文件
+├── image_watermark.py             // 图片嵌入水印测试 py 文件
+├── input.txt                      // 输入语料
+├── input_gbk.txt                  // 输入语料（GBK 编码）
+├── input_img                      // 待加密图片文件夹
+│   ├── new_test.jpg               // 嵌入过程中对原图修改后的图片
+│   └── test.jpg                   // 待加密原始图片
+├── output_img                     // 嵌入水印后生成图片的文件夹
+│   └── output1.jpg                // 已嵌入水印图片
+├── requirements.txt               // 项目依赖
+├── watermark_attr.py              // 图片攻击类
+
 ```
 
 ## 类及函数说明
